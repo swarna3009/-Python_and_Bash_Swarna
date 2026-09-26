@@ -1,0 +1,5 @@
+file=open("temp.txt","w")
+file.write("my python file\n")
+file.write("currently learning devops")
+file.close()
+print("content written sucessfully")
